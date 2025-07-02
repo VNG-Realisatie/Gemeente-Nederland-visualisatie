@@ -1,3 +1,7 @@
+| Eigenaar | Ingevuld door |
+| --- | --- |
+| Kennis Centrum Architectuur | Mark Backer |
+<hr/>
 # Gemeente-Nederland-visualisatie
 
 Vanuit deze repository wordt de Gemeente Nederland visualisatie in hoge resolutie beschikbaar gesteld. 
